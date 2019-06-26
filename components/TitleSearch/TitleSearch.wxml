@@ -1,0 +1,17 @@
+<view class="title_search">
+<navigator class="title_logo">
+    <image class="logo_img" src="../../icons/tu1.png"></image>
+</navigator>
+
+    <view class="title_search_icon">
+        <image class="search_icon" src="../../icons/search.png"></image>
+        <input class="search_input" type="text" placeholder="请输入关键字"  bindinput='SearchInput' />
+
+    </view>
+    <view class="title_user_icon">
+        <image class="user_icon" src="../../icons/user.png"></image>
+    </view>
+    <view class="title_down_icon">
+        下载app
+    </view>
+</view>

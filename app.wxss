@@ -1,0 +1,4 @@
+/**app.wxss**/
+page,view,image,swiper-item,navigator,vidio{
+  box-sizing: border-box;
+}

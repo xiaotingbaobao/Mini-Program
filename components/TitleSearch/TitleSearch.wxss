@@ -1,0 +1,58 @@
+/* components/TitleSearch/TitleSearch.wxss */
+.title_search{
+    display: flex;
+    align-items: center;
+    padding: 10rpx;
+    background-color: #ffb3cf;
+}
+.title_logo{
+    flex: 2;
+
+}
+.title_search_icon{
+    flex: 6;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 24rpx;
+    color: #de688b;
+    background-color: #efa3bf;
+    border-radius: 15rpx;
+    margin-left: 10rpx;
+    margin-right: 15rpx;
+}
+.title_search_icon image{
+    margin-top: 8rpx;
+    margin-right: 5rpx;
+    margin-left: 5rpx;
+}
+.title_user_icon{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.title_down_icon{
+    flex:2;
+    font-size: 28rpx;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #fff;
+    color: #ffb3cf;
+    border-radius: 8rpx;
+    padding: 8rpx;
+}
+.logo_img{
+    width: 130rpx;
+    height: 59rpx;
+}
+.search_icon{
+    width: 40rpx;
+    height: 40rpx;
+}
+.user_icon{
+    width: 50rpx;
+    height: 50rpx;
+}
+
